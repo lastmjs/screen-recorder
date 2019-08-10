@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "",
   "scripts": {
-    "start": "zwitterion --port 7000"
+    "start": "zwitterion --port 7000",
+    "build": "zwitterion --build-static --exclude node_modules"
   },
   "repository": {
     "type": "git",
