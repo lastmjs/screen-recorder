@@ -1,0 +1,21 @@
+{
+  "name": "screen-recorder",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "zwitterion --port 7000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastmjs/screen-recorder.git"
+  },
+  "author": "Jordan Last <jordan.michael.last@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lastmjs/screen-recorder/issues"
+  },
+  "homepage": "https://github.com/lastmjs/screen-recorder#readme",
+  "dependencies": {
+    "zwitterion": "0.29.0"
+  }
+}
