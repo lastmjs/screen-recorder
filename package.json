@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/lastmjs/screen-recorder#readme",
   "dependencies": {
-    "zwitterion": "0.29.0"
+    "zwitterion": "0.47.0"
   }
 }
